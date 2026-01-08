@@ -5,5 +5,5 @@ export default defineConfig({
   build: {
     outDir: 'docs',
   },
-  base: '/vincent-luu-portfolio/',
+  base: '/',
 })
